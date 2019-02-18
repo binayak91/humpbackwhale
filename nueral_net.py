@@ -1,7 +1,1 @@
-a=5
-b=7
-c=a+b
-print(c)
-print(a)
-print(b)
-print((a+c))
+###Start of the Code ####
